@@ -44,4 +44,4 @@ Sejam Bem-Vindo ao meu perfil GitHub 😊
 </div>
 
 
-![Snake animation](https://github.com/seu-usuário-aqui/rogerrm95/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rogerrm95/rogerrm95/blob/output/github-contribution-grid-snake.svg)
