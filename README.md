@@ -6,7 +6,7 @@ Sejam Bem-Vindo ao meu perfil GitHub 😊
 
 - Meu nome é Rogério Marques, mas conhecido também como Roger;
 - Tenho 26 anos;
-- Formado no curso de Ciencias da Computação 📘;
+- Formado em Ciencias da Computação 📘;
 - Atualmente trabalho como Técnico de Sistemas na empresa Planneta Educação 🌍;
 - No momento estou buscando uma realocação no mercado profissional, pretendendo atuar como Desenvolvedor Front-End 💻..
 - E claro, Programar é minha arte 🎨.
