@@ -8,7 +8,7 @@ Sejam Bem-Vindo ao meu perfil GitHub 😊
 - Tenho 26 anos;
 - Formado em Ciencias da Computação 📘;
 - Atualmente trabalho como Técnico de Sistemas na empresa Planneta Educação 🌍;
-- No momento estou buscando uma realocação no mercado profissional, pretendendo atuar como Desenvolvedor Front-End 💻..
+- No momento estou buscando uma realocação no mercado profissional, pretendendo atuar como Desenvolvedor Front-End Jr 💻..
 - E claro, Programar é minha arte 🎨.
 
 ## 🛠 Tecnologias e Ferramentas
