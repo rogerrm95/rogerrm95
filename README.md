@@ -1,6 +1,6 @@
-# Hello Devs,
+# Hello Dev,
 
-Sejam Bem-Vindo ao meu perfil GitHub 😊
+Seja Bem-Vindo ao meu perfil GitHub 😊
 
 ## 👦🏻 Sobre mim
 
@@ -10,6 +10,8 @@ Sejam Bem-Vindo ao meu perfil GitHub 😊
 - Atualmente trabalho como Técnico de Sistemas na empresa Planneta Educação 🌍;
 - No momento estou buscando uma realocação no mercado profissional, pretendendo atuar como Desenvolvedor Front-End Jr 💻..
 - E claro, Programar é minha arte 🎨.
+
+Abaixo listo minha stack contendo as principais ferramentas que domino e as que estou atualmente estudando e aprimorando.
 
 ## 🛠 Tecnologias e Ferramentas
 <div>
@@ -25,8 +27,8 @@ Sejam Bem-Vindo ao meu perfil GitHub 😊
 
 ## 📚 Estudando
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="50" height="50"/>
 </div>
 
 ## Status
